@@ -1,0 +1,14 @@
+name: semanticNetworks
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+    - nltk
+    - itertools
+    - networkx
