@@ -4,8 +4,6 @@ channels:
 dependencies:
   - python
   - numpy
-  - brew:
-    - enchant
   - pip:
     - nbgitpuller
     - sphinx-gallery
@@ -14,4 +12,3 @@ dependencies:
     - nltk
     - networkx
     - gensim
-    - pyenchant
