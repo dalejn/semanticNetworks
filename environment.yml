@@ -12,4 +12,4 @@ dependencies:
     - nltk
     - networkx
     - gensim
-    - enchant
+    - pyenchant
