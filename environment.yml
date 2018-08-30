@@ -4,11 +4,11 @@ channels:
 dependencies:
   - python
   - numpy
+  - itertools
   - pip:
     - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
     - nltk
-    - itertools
     - networkx
