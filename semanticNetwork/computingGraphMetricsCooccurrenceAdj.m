@@ -51,7 +51,7 @@ p1 = plot(G,'Layout','force');
 p1.NodeColor = 'k';
 p1.NodeLabel = wordList;
 p1.EdgeColor = [0.5 0.5 0.52];
-title('Semantic Network Graph')
+title('Co-occurrence Graph')
 axis square;
 axis off;
 
@@ -67,7 +67,7 @@ ax.XTickLabels = wordList(1:100:nWords);
 ax.XTickLabelRotation = 90;
 ax.YTick = 1:100:nWords;
 ax.YTickLabels = wordList(1:100:nWords);
-title('Semantic Netowrk Adjacency Matrix')
+title('Co-occurrence Adjacency Matrix')
 
 
 %% Compute relevant graph metrics
@@ -175,7 +175,7 @@ p2.NodeLabel = wordList;
 p2.EdgeColor = [0.5 0.5 0.52];
 p2.MarkerSize = 7;
 axis off
-title('Semantic Network Community Structure')
+title('Co-occurrence Network Community Structure')
 
 subplot(1,2,2)
 p3 = plot(G,'Layout','force');
