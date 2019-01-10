@@ -1,6 +1,6 @@
 from nltk import sent_tokenize, word_tokenize
 from nltk.stem import WordNetLemmatizer as wnl
-import nltk, gensim, re, string, enchant, glob
+import nltk, re, string, enchant, glob
 from itertools import islice, compress
 import itertools
 import matplotlib.pyplot as plt
