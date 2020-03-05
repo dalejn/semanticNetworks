@@ -1,7 +1,5 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dalejn/semanticNetworks/master)
 
-**NOTE** to click on hyperlinks in the `.pdf`s, you will need to download the `.pdf`s
-
 **INSP002** students, please see [INSP002-README.pdf](https://github.com/dalejn/semanticNetworks/raw/master/INSP002-README.pdf)
 
 **BE566** students, please see [BE566-README.pdf](https://github.com/dalejn/semanticNetworks/raw/master/BE566-README.pdf)
